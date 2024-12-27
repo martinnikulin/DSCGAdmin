@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.900,=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCG\UtilsUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\DMUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\MainUnit.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.134,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\Unit1.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\GeolReportUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.278,=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.483,=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\Unit1.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\ProjectNameUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\DMUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.134,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\Unit1.dfm=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\GeolReportUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\Unit1.dfm=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\ProjectNameUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\DMUnit.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\DMUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.064,=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\UtilsUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.680,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\DSCGAdmin.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\DMUnit.dfm=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\DMUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\MainUnit.dfm=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCGAdmin\MainUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
